@@ -1,10 +1,10 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FP-Amitabh&psig=AOvVaw2xJq3-RtfZQcaREXhwPuub&ust=1700375850166000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjrgOj3zIIDFQAAAAAdAAAAABAE)](https://github.com/P-Amitabh)
+[![MasterHead](bn.jpg)
 
 <h1 align="center">Hi 👋, I'm Ayush Bangari</h1>
 <h3 align="center">Aspiring Data Science learner Endeavor to Tackle Challenges</h3>
-<img align="right" alt="ML" widht="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bmc.com%2Fblogs%2Fmachine-learning-containers%2F&psig=AOvVaw2Lvow06g2bvrII-L0eIl16&ust=1700375518979000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjtisr2zIIDFQAAAAAdAAAAABAR"
-
+<img align="right" alt="ML" widht="400" src="ml.png"
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdev234&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdev234" /> </p>
 
